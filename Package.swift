@@ -3,8 +3,8 @@
 
 import PackageDescription
 
-let version = "4.7.0"
-let checksum = "af10bd2c987ec0d9fcb37aae247a80396cab283f589d51eb75c13a98c55cc182"
+let version = "4.7.1-b.1"
+let checksum = "610f5219b4f615bdb8e16b75f195d3c8a524085e1215826a5ee062b990b2f466"
 
 let package = Package(
     name: "AirTurnInterface",
@@ -18,6 +18,6 @@ let package = Package(
     dependencies: [
     ],
     targets: [
-        .binaryTarget(name: "AirTurnInterface", url: "https://airturn.com/framework/AirTurnInterface.\(version).static.spm.zip", checksum: checksum)
+        .binaryTarget(name: "AirTurnInterface", url: "https://dev.airturn.com/sdk/AirTurnInterface.\(version).static.spm.zip", checksum: checksum)
     ]
 )
