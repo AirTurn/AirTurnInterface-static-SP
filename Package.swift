@@ -3,12 +3,12 @@
 
 import PackageDescription
 
-let version = "4.7.2"
-let checksum = "96dfa9e4a5e32bbc2cacf6e98c294f854738ac48e7c7fa1541576b1573e25737"
+let version = "4.8.0-b.1"
+let checksum = "15b7e29abdc9dc726e829c7889ddb3a9d9d792e1cc7d924e10a8258796463c11"
 
 let package = Package(
     name: "AirTurnInterface",
-    platforms: [.iOS(.v11)],
+    platforms: [.iOS(.v12)],
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
