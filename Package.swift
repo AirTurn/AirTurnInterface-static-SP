@@ -3,8 +3,13 @@
 
 import PackageDescription
 
+<<<<<<< Updated upstream
 let version = "4.7.3"
 let checksum = "d7aa4870b719c6b28d57a540f3434338b0c8330a13b25a930f6b089508d4792f"
+=======
+let version = "4.8.0"
+let checksum = "cfae6a57cdac0d5005275262ee543b4e4069cf237f1c698f371ccd92cd396066"
+>>>>>>> Stashed changes
 
 let package = Package(
     name: "AirTurnInterface",
