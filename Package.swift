@@ -4,11 +4,11 @@
 import PackageDescription
 
 <<<<<<< Updated upstream
-let version = "4.8.3"
-let checksum = "d93f9259366dcd29f509c313280e8124e8ce1b4ab4703658c41d7fccceba2aa7"
+let version = "4.8.4"
+let checksum = "a0ebcf17fcc3eaa0b911fa9a2efc30c794b8d9e4dde25d8de204523ccba4fd0c"
 =======
-let version = "4.8.3"
-let checksum = "d93f9259366dcd29f509c313280e8124e8ce1b4ab4703658c41d7fccceba2aa7"
+let version = "4.8.4"
+let checksum = "a0ebcf17fcc3eaa0b911fa9a2efc30c794b8d9e4dde25d8de204523ccba4fd0c"
 >>>>>>> Stashed changes
 
 let package = Package(
