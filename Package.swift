@@ -1,10 +1,10 @@
-// swift-tools-version:5.3
+// swift-tools-version:6.3
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
 
-let version = "4.10.0-b.1"
-let checksum = "94b8b09e17bd85349e6efa23395fdb124b789bffd529018dd7b9f22d0d73fd2b"
+let version = "4.10.0"
+let checksum = "bc63e7516f02ba9fe2f5af241717220d1b952dcb92de710c0e20d72c4db8debb"
 
 let package = Package(
     name: "AirTurnInterface",
